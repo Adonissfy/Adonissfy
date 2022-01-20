@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adonis</h1>
+<p align="center"><img src="https://tenor.com/view/duck-waddling-gif-18273682" width="500px"></p>
 
 - 🔭 I’m currently studying at : [42 lyon](https://42lyon.fr/)
 
