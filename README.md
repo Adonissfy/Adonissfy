@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adonis</h1>
+
 - 🔭 I’m currently studying at : [42 lyon](https://42lyon.fr/)
 
 - 🌱 I’m currently learning **C, just C**
