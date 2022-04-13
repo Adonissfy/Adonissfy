@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adonis UwU</h1>
+<h1 align="center">Hi 👋, I'm Adonis</h1>
 
 <p align="center"><img src="https://c.tenor.com/txO6Gp4118wAAAAd/comicbooks-comicbookgifs.gif" width="700px"></p>
 
