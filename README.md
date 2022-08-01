@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at : [42 lyon](https://42lyon.fr/)
 
-- 🌱 I’m currently learning **C and **C++
+- 🌱 I’m currently learning **C** and **C++**
 
 - 📫 How to reach me **asaffroy@student.42lyon.fr**
 
